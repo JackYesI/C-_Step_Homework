@@ -1,0 +1,13 @@
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\bin\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.deps.json
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\bin\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.dll
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\bin\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.pdb
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.AssemblyInfoInputs.cache
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.AssemblyInfo.cs
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.sourcelink.json
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.dll
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\refint\SecondLibraryCodeFirstFluentAPI.dll
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\SecondLibraryCodeFirstFluentAPI.pdb
+D:\C#\ConsoleApp1\SecondLibraryCodeFirstFluentAPI\obj\Debug\net8.0\ref\SecondLibraryCodeFirstFluentAPI.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EEOR8ddcPZoq0ozaoeP79DPef8qgyMy4DvRItB1NavP9PqDHwRUjUSH5iEAKS3osi0uLxB3CTNNTJNVMBUvRaA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Network\\NP_Sockets_TCP_UDP\\TCP_2_Protocol_console\\TCP_2_Protocol_console_CLIENT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

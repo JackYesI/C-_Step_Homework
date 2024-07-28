@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\SystemPrograming_C#\\Process_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DC9586-0CA2-4803-9D9A-A2A9B36201B1}|LastExamAsynDict\\LastExamAsynDict.csproj|d:\\c#\\systemprograming_c#\\process_01\\lastexamasyndict\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0DC9586-0CA2-4803-9D9A-A2A9B36201B1}|LastExamAsynDict\\LastExamAsynDict.csproj|solutionrelative:lastexamasyndict\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DC9586-0CA2-4803-9D9A-A2A9B36201B1}|LastExamAsynDict\\LastExamAsynDict.csproj|d:\\c#\\systemprograming_c#\\process_01\\lastexamasyndict\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DC9586-0CA2-4803-9D9A-A2A9B36201B1}|LastExamAsynDict\\LastExamAsynDict.csproj|solutionrelative:lastexamasyndict\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA007F3-2ABF-4CE0-828E-BAB6511C4381}|testLastExersise\\testLastExersise.csproj|d:\\c#\\systemprograming_c#\\process_01\\testlastexersise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA007F3-2ABF-4CE0-828E-BAB6511C4381}|testLastExersise\\testLastExersise.csproj|solutionrelative:testlastexersise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68820537-E224-4114-AC3C-42AFD488399C}|Parallel_ForEach\\Parallel_ForEach.csproj|D:\\C#\\SystemPrograming_C#\\Process_01\\parallel_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68820537-E224-4114-AC3C-42AFD488399C}|Parallel_ForEach\\Parallel_ForEach.csproj|solutionrelative:parallel_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\SystemPrograming_C#\\Process_01\\LastExamAsynDict\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LastExamAsynDict\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\SystemPrograming_C#\\Process_01\\LastExamAsynDict\\MainWindow.xaml",
+              "RelativeToolTip": "LastExamAsynDict\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T11:00:43.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\SystemPrograming_C#\\Process_01\\LastExamAsynDict\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LastExamAsynDict\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\SystemPrograming_C#\\Process_01\\LastExamAsynDict\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LastExamAsynDict\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:00:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SystemPrograming_C#\\Process_01\\testLastExersise\\Program.cs",
+              "RelativeDocumentMoniker": "testLastExersise\\Program.cs",
+              "ToolTip": "D:\\C#\\SystemPrograming_C#\\Process_01\\testLastExersise\\Program.cs",
+              "RelativeToolTip": "testLastExersise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:34:49.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SystemPrograming_C#\\Process_01\\Parallel_ForEach\\Program.cs",
+              "RelativeDocumentMoniker": "Parallel_ForEach\\Program.cs",
+              "ToolTip": "D:\\C#\\SystemPrograming_C#\\Process_01\\Parallel_ForEach\\Program.cs",
+              "RelativeToolTip": "Parallel_ForEach\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:51:18.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C#\Network\IntroNet\ClientAsync\bin\Debug\net8.0\ClientAsync.exe
+D:\C#\Network\IntroNet\ClientAsync\bin\Debug\net8.0\ClientAsync.deps.json
+D:\C#\Network\IntroNet\ClientAsync\bin\Debug\net8.0\ClientAsync.runtimeconfig.json
+D:\C#\Network\IntroNet\ClientAsync\bin\Debug\net8.0\ClientAsync.dll
+D:\C#\Network\IntroNet\ClientAsync\bin\Debug\net8.0\ClientAsync.pdb
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\ClientAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\ClientAsync.AssemblyInfoInputs.cache
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\ClientAsync.AssemblyInfo.cs
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\ClientAsync.csproj.CoreCompileInputs.cache
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\ClientAsync.dll
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\refint\ClientAsync.dll
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\ClientAsync.pdb
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\ClientAsync.genruntimeconfig.cache
+D:\C#\Network\IntroNet\ClientAsync\obj\Debug\net8.0\ref\ClientAsync.dll

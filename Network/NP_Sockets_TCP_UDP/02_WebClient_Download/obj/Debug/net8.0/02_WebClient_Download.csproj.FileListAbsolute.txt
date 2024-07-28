@@ -1,0 +1,14 @@
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\02_WebClient_Download.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\02_WebClient_Download.AssemblyInfoInputs.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\02_WebClient_Download.AssemblyInfo.cs
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\02_WebClient_Download.csproj.CoreCompileInputs.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\bin\Debug\net8.0\02_WebClient_Download.exe
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\bin\Debug\net8.0\02_WebClient_Download.deps.json
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\bin\Debug\net8.0\02_WebClient_Download.runtimeconfig.json
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\bin\Debug\net8.0\02_WebClient_Download.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\bin\Debug\net8.0\02_WebClient_Download.pdb
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\02_WebClient_Download.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\refint\02_WebClient_Download.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\02_WebClient_Download.pdb
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\02_WebClient_Download.genruntimeconfig.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\02_WebClient_Download\obj\Debug\net8.0\ref\02_WebClient_Download.dll

@@ -1,0 +1,17 @@
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\bin\Debug\net8.0\HTTP_Client_Server.exe
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\bin\Debug\net8.0\HTTP_Client_Server.deps.json
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\bin\Debug\net8.0\HTTP_Client_Server.runtimeconfig.json
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\bin\Debug\net8.0\HTTP_Client_Server.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\bin\Debug\net8.0\HTTP_Client_Server.pdb
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Client_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Client_Server.AssemblyInfoInputs.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Client_Server.AssemblyInfo.cs
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Client_Server.csproj.CoreCompileInputs.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Client_Server.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\refint\HTTP_Client_Server.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Client_Server.pdb
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Client_Server.genruntimeconfig.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\ref\HTTP_Client_Server.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Client_Server.csproj.AssemblyReference.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\HTTP_Client_Server\obj\Debug\net8.0\HTTP_Cli.AE1683F6.Up2Date

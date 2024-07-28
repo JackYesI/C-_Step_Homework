@@ -1,0 +1,14 @@
+D:\C#\Network\IntroNet\Post_Index_DB\bin\Debug\net8.0\Post_Index_DB.deps.json
+D:\C#\Network\IntroNet\Post_Index_DB\bin\Debug\net8.0\Post_Index_DB.runtimeconfig.json
+D:\C#\Network\IntroNet\Post_Index_DB\bin\Debug\net8.0\Post_Index_DB.dll
+D:\C#\Network\IntroNet\Post_Index_DB\bin\Debug\net8.0\Post_Index_DB.pdb
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\Post_Index_DB.csproj.AssemblyReference.cache
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\Post_Index_DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\Post_Index_DB.AssemblyInfoInputs.cache
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\Post_Index_DB.AssemblyInfo.cs
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\Post_Index_DB.csproj.CoreCompileInputs.cache
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\Post_Index_DB.dll
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\refint\Post_Index_DB.dll
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\Post_Index_DB.pdb
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\Post_Index_DB.genruntimeconfig.cache
+D:\C#\Network\IntroNet\Post_Index_DB\obj\Debug\net8.0\ref\Post_Index_DB.dll

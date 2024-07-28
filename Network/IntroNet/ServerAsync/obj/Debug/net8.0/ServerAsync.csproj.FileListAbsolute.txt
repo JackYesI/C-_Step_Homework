@@ -1,0 +1,14 @@
+D:\C#\Network\IntroNet\ServerAsync\bin\Debug\net8.0\ServerAsync.exe
+D:\C#\Network\IntroNet\ServerAsync\bin\Debug\net8.0\ServerAsync.deps.json
+D:\C#\Network\IntroNet\ServerAsync\bin\Debug\net8.0\ServerAsync.runtimeconfig.json
+D:\C#\Network\IntroNet\ServerAsync\bin\Debug\net8.0\ServerAsync.dll
+D:\C#\Network\IntroNet\ServerAsync\bin\Debug\net8.0\ServerAsync.pdb
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\ServerAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\ServerAsync.AssemblyInfoInputs.cache
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\ServerAsync.AssemblyInfo.cs
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\ServerAsync.csproj.CoreCompileInputs.cache
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\ServerAsync.dll
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\refint\ServerAsync.dll
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\ServerAsync.pdb
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\ServerAsync.genruntimeconfig.cache
+D:\C#\Network\IntroNet\ServerAsync\obj\Debug\net8.0\ref\ServerAsync.dll

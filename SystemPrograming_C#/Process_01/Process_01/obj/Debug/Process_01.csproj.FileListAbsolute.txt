@@ -1,0 +1,7 @@
+D:\C#\SystemPrograming_C#\Process_01\Process_01\bin\Debug\Process_01.exe.config
+D:\C#\SystemPrograming_C#\Process_01\Process_01\bin\Debug\Process_01.exe
+D:\C#\SystemPrograming_C#\Process_01\Process_01\bin\Debug\Process_01.pdb
+D:\C#\SystemPrograming_C#\Process_01\Process_01\obj\Debug\Process_01.csproj.AssemblyReference.cache
+D:\C#\SystemPrograming_C#\Process_01\Process_01\obj\Debug\Process_01.csproj.CoreCompileInputs.cache
+D:\C#\SystemPrograming_C#\Process_01\Process_01\obj\Debug\Process_01.exe
+D:\C#\SystemPrograming_C#\Process_01\Process_01\obj\Debug\Process_01.pdb

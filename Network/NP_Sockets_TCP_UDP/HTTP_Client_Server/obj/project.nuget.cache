@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfMEUmySRKA2N+DycRFNR7eQOqiFXm01mF3nTVKDkt1hQStE6OcBqpN8n0bjKDjkSWhLQ7MknGqjQD3HU6JlIA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Network\\NP_Sockets_TCP_UDP\\HTTP_Client_Server\\HTTP_Client_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

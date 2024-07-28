@@ -1,0 +1,14 @@
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\bin\Debug\net8.0\TCP_server_Game.exe
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\bin\Debug\net8.0\TCP_server_Game.deps.json
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\bin\Debug\net8.0\TCP_server_Game.runtimeconfig.json
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\bin\Debug\net8.0\TCP_server_Game.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\bin\Debug\net8.0\TCP_server_Game.pdb
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\TCP_server_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\TCP_server_Game.AssemblyInfoInputs.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\TCP_server_Game.AssemblyInfo.cs
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\TCP_server_Game.csproj.CoreCompileInputs.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\TCP_server_Game.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\refint\TCP_server_Game.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\TCP_server_Game.pdb
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\TCP_server_Game.genruntimeconfig.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_server_Game\obj\Debug\net8.0\ref\TCP_server_Game.dll

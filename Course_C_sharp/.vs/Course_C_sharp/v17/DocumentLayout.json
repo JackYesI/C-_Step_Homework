@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Course_C_sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|d:\\c#\\course_c_sharp\\course_c_sharp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|solutionrelative:course_c_sharp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|d:\\c#\\course_c_sharp\\course_c_sharp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|solutionrelative:course_c_sharp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|d:\\c#\\course_c_sharp\\course_c_sharp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|solutionrelative:course_c_sharp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|d:\\c#\\course_c_sharp\\course_c_sharp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|solutionrelative:course_c_sharp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|d:\\c#\\course_c_sharp\\course_c_sharp\\course_c_sharp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|solutionrelative:course_c_sharp\\course_c_sharp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|d:\\c#\\course_c_sharp\\course_c_sharp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F01D65-0765-4F51-966B-FB68D895E00E}|Course_C_sharp\\Course_C_sharp.csproj|solutionrelative:course_c_sharp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\App.xaml",
+              "RelativeDocumentMoniker": "Course_C_sharp\\App.xaml",
+              "ToolTip": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\App.xaml",
+              "RelativeToolTip": "Course_C_sharp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-07T16:08:20.234Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course_C_sharp",
+              "DocumentMoniker": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\Course_C_sharp.csproj",
+              "RelativeDocumentMoniker": "Course_C_sharp\\Course_C_sharp.csproj",
+              "ToolTip": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\Course_C_sharp.csproj",
+              "RelativeToolTip": "Course_C_sharp\\Course_C_sharp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-07T16:45:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Course_C_sharp\\App.xaml.cs",
+              "ToolTip": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\App.xaml.cs",
+              "RelativeToolTip": "Course_C_sharp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T16:10:20.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Course_C_sharp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\AssemblyInfo.cs",
+              "RelativeToolTip": "Course_C_sharp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T14:41:34.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Course_C_sharp\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\MainWindow.xaml",
+              "RelativeToolTip": "Course_C_sharp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-07T13:53:39.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Course_C_sharp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\Course_C_sharp\\Course_C_sharp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Course_C_sharp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T13:51:48.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

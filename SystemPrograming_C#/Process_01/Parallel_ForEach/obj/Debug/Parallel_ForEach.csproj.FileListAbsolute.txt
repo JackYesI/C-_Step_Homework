@@ -1,0 +1,7 @@
+D:\C#\SystemPrograming_C#\Process_01\Parallel_ForEach\bin\Debug\Parallel_ForEach.exe.config
+D:\C#\SystemPrograming_C#\Process_01\Parallel_ForEach\bin\Debug\Parallel_ForEach.exe
+D:\C#\SystemPrograming_C#\Process_01\Parallel_ForEach\bin\Debug\Parallel_ForEach.pdb
+D:\C#\SystemPrograming_C#\Process_01\Parallel_ForEach\obj\Debug\Parallel_ForEach.csproj.AssemblyReference.cache
+D:\C#\SystemPrograming_C#\Process_01\Parallel_ForEach\obj\Debug\Parallel_ForEach.csproj.CoreCompileInputs.cache
+D:\C#\SystemPrograming_C#\Process_01\Parallel_ForEach\obj\Debug\Parallel_ForEach.exe
+D:\C#\SystemPrograming_C#\Process_01\Parallel_ForEach\obj\Debug\Parallel_ForEach.pdb

@@ -1,0 +1,14 @@
+D:\C#\Network\IntroNet\Client\bin\Debug\net8.0\Client.exe
+D:\C#\Network\IntroNet\Client\bin\Debug\net8.0\Client.deps.json
+D:\C#\Network\IntroNet\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\C#\Network\IntroNet\Client\bin\Debug\net8.0\Client.dll
+D:\C#\Network\IntroNet\Client\bin\Debug\net8.0\Client.pdb
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\Client.dll
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\refint\Client.dll
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\Client.pdb
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\C#\Network\IntroNet\Client\obj\Debug\net8.0\ref\Client.dll

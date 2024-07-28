@@ -1,0 +1,5 @@
+Sumbol is 10
+Sentenses is 1
+Words is 2
+Ask 0
+! 1

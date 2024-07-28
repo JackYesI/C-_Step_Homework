@@ -1,0 +1,14 @@
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\bin\Debug\net8.0\testLastExersise.exe
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\bin\Debug\net8.0\testLastExersise.deps.json
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\bin\Debug\net8.0\testLastExersise.runtimeconfig.json
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\bin\Debug\net8.0\testLastExersise.dll
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\bin\Debug\net8.0\testLastExersise.pdb
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\testLastExersise.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\testLastExersise.AssemblyInfoInputs.cache
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\testLastExersise.AssemblyInfo.cs
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\testLastExersise.csproj.CoreCompileInputs.cache
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\testLastExersise.dll
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\refint\testLastExersise.dll
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\testLastExersise.pdb
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\testLastExersise.genruntimeconfig.cache
+D:\C#\SystemPrograming_C#\Process_01\testLastExersise\obj\Debug\net8.0\ref\testLastExersise.dll

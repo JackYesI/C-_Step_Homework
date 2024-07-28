@@ -1,0 +1,296 @@
+﻿  Cat.cpp
+D:\C(29,61): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+D:\C(29,61): warning C4267:         with
+D:\C(29,61): warning C4267:         [
+D:\C(29,61): warning C4267:             T=int
+D:\C(29,61): warning C4267:         ]
+D:\C(29,53): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+D:\C(29,53): warning C4267:         with
+D:\C(29,53): warning C4267:         [
+D:\C(29,53): warning C4267:             T=int
+D:\C(29,53): warning C4267:         ]
+D:\C(36,40): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+D:\C(36,40): warning C4267:         with
+D:\C(36,40): warning C4267:         [
+D:\C(36,40): warning C4267:             T=int
+D:\C(36,40): warning C4267:         ]
+  Game.cpp
+  GameState.cpp
+D:\C(17,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(17,59): warning C4244:         with
+D:\C(17,59): warning C4244:         [
+D:\C(17,59): warning C4244:             T=float
+D:\C(17,59): warning C4244:         ]
+D:\C(17,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(17,45): warning C4244:         with
+D:\C(17,45): warning C4244:         [
+D:\C(17,45): warning C4244:             T=float
+D:\C(17,45): warning C4244:         ]
+D:\C(24,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(24,59): warning C4244:         with
+D:\C(24,59): warning C4244:         [
+D:\C(24,59): warning C4244:             T=float
+D:\C(24,59): warning C4244:         ]
+D:\C(24,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(24,45): warning C4244:         with
+D:\C(24,45): warning C4244:         [
+D:\C(24,45): warning C4244:             T=float
+D:\C(24,45): warning C4244:         ]
+D:\C(31,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(31,59): warning C4244:         with
+D:\C(31,59): warning C4244:         [
+D:\C(31,59): warning C4244:             T=float
+D:\C(31,59): warning C4244:         ]
+D:\C(31,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(31,45): warning C4244:         with
+D:\C(31,45): warning C4244:         [
+D:\C(31,45): warning C4244:             T=float
+D:\C(31,45): warning C4244:         ]
+D:\C(38,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(38,59): warning C4244:         with
+D:\C(38,59): warning C4244:         [
+D:\C(38,59): warning C4244:             T=float
+D:\C(38,59): warning C4244:         ]
+D:\C(38,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(38,45): warning C4244:         with
+D:\C(38,45): warning C4244:         [
+D:\C(38,45): warning C4244:             T=float
+D:\C(38,45): warning C4244:         ]
+  MainMenuState.cpp
+D:\C(32,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(32,87): warning C4244:         with
+D:\C(32,87): warning C4244:         [
+D:\C(32,87): warning C4244:             T=float
+D:\C(32,87): warning C4244:         ]
+D:\C(32,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(32,66): warning C4244:         with
+D:\C(32,66): warning C4244:         [
+D:\C(32,66): warning C4244:             T=float
+D:\C(32,66): warning C4244:         ]
+D:\C(35,95): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(35,95): warning C4244:         with
+D:\C(35,95): warning C4244:         [
+D:\C(35,95): warning C4244:             T=float
+D:\C(35,95): warning C4244:         ]
+D:\C(35,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(35,74): warning C4244:         with
+D:\C(35,74): warning C4244:         [
+D:\C(35,74): warning C4244:             T=float
+D:\C(35,74): warning C4244:         ]
+D:\C(38,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(38,92): warning C4244:         with
+D:\C(38,92): warning C4244:         [
+D:\C(38,92): warning C4244:             T=float
+D:\C(38,92): warning C4244:         ]
+D:\C(38,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(38,71): warning C4244:         with
+D:\C(38,71): warning C4244:         [
+D:\C(38,71): warning C4244:             T=float
+D:\C(38,71): warning C4244:         ]
+D:\C(61,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(61,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(62,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(62,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(63,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(63,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(64,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(64,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Main_Menu.cpp
+D:\C(16,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(16,59): warning C4244:         with
+D:\C(16,59): warning C4244:         [
+D:\C(16,59): warning C4244:             T=float
+D:\C(16,59): warning C4244:         ]
+D:\C(16,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(16,45): warning C4244:         with
+D:\C(16,45): warning C4244:         [
+D:\C(16,45): warning C4244:             T=float
+D:\C(16,45): warning C4244:         ]
+D:\C(23,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(23,59): warning C4244:         with
+D:\C(23,59): warning C4244:         [
+D:\C(23,59): warning C4244:             T=float
+D:\C(23,59): warning C4244:         ]
+D:\C(23,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(23,45): warning C4244:         with
+D:\C(23,45): warning C4244:         [
+D:\C(23,45): warning C4244:             T=float
+D:\C(23,45): warning C4244:         ]
+D:\C(30,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(30,59): warning C4244:         with
+D:\C(30,59): warning C4244:         [
+D:\C(30,59): warning C4244:             T=float
+D:\C(30,59): warning C4244:         ]
+D:\C(30,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(30,45): warning C4244:         with
+D:\C(30,45): warning C4244:         [
+D:\C(30,45): warning C4244:             T=float
+D:\C(30,45): warning C4244:         ]
+D:\C(37,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(37,59): warning C4244:         with
+D:\C(37,59): warning C4244:         [
+D:\C(37,59): warning C4244:             T=float
+D:\C(37,59): warning C4244:         ]
+D:\C(37,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C(37,45): warning C4244:         with
+D:\C(37,45): warning C4244:         [
+D:\C(37,45): warning C4244:             T=float
+D:\C(37,45): warning C4244:         ]
+  Nub.cpp
+D:\C(33,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(33,60): warning C4244:         with
+D:\C(33,60): warning C4244:         [
+D:\C(33,60): warning C4244:             T=float
+D:\C(33,60): warning C4244:         ]
+D:\C(33,52): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(33,52): warning C4244:         with
+D:\C(33,52): warning C4244:         [
+D:\C(33,52): warning C4244:             T=float
+D:\C(33,52): warning C4244:         ]
+D:\C(34,66): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(34,66): warning C4244:         with
+D:\C(34,66): warning C4244:         [
+D:\C(34,66): warning C4244:             T=float
+D:\C(34,66): warning C4244:         ]
+D:\C(34,58): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(34,58): warning C4244:         with
+D:\C(34,58): warning C4244:         [
+D:\C(34,58): warning C4244:             T=float
+D:\C(34,58): warning C4244:         ]
+D:\C(35,66): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(35,66): warning C4244:         with
+D:\C(35,66): warning C4244:         [
+D:\C(35,66): warning C4244:             T=float
+D:\C(35,66): warning C4244:         ]
+D:\C(35,52): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(35,52): warning C4244:         with
+D:\C(35,52): warning C4244:         [
+D:\C(35,52): warning C4244:             T=float
+D:\C(35,52): warning C4244:         ]
+D:\C(36,66): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(36,66): warning C4244:         with
+D:\C(36,66): warning C4244:         [
+D:\C(36,66): warning C4244:             T=float
+D:\C(36,66): warning C4244:         ]
+D:\C(36,52): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(36,52): warning C4244:         with
+D:\C(36,52): warning C4244:         [
+D:\C(36,52): warning C4244:             T=float
+D:\C(36,52): warning C4244:         ]
+D:\C(37,66): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(37,66): warning C4244:         with
+D:\C(37,66): warning C4244:         [
+D:\C(37,66): warning C4244:             T=float
+D:\C(37,66): warning C4244:         ]
+D:\C(37,58): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(37,58): warning C4244:         with
+D:\C(37,58): warning C4244:         [
+D:\C(37,58): warning C4244:             T=float
+D:\C(37,58): warning C4244:         ]
+D:\C(38,72): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(38,72): warning C4244:         with
+D:\C(38,72): warning C4244:         [
+D:\C(38,72): warning C4244:             T=float
+D:\C(38,72): warning C4244:         ]
+D:\C(38,58): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C(38,58): warning C4244:         with
+D:\C(38,58): warning C4244:         [
+D:\C(38,58): warning C4244:             T=float
+D:\C(38,58): warning C4244:         ]
+D:\C(41,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(41,63): warning C4244:         with
+D:\C(41,63): warning C4244:         [
+D:\C(41,63): warning C4244:             T=float
+D:\C(41,63): warning C4244:         ]
+D:\C(41,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(41,54): warning C4244:         with
+D:\C(41,54): warning C4244:         [
+D:\C(41,54): warning C4244:             T=float
+D:\C(41,54): warning C4244:         ]
+D:\C(42,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(42,69): warning C4244:         with
+D:\C(42,69): warning C4244:         [
+D:\C(42,69): warning C4244:             T=float
+D:\C(42,69): warning C4244:         ]
+D:\C(42,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(42,60): warning C4244:         with
+D:\C(42,60): warning C4244:         [
+D:\C(42,60): warning C4244:             T=float
+D:\C(42,60): warning C4244:         ]
+D:\C(43,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(43,69): warning C4244:         with
+D:\C(43,69): warning C4244:         [
+D:\C(43,69): warning C4244:             T=float
+D:\C(43,69): warning C4244:         ]
+D:\C(43,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(43,54): warning C4244:         with
+D:\C(43,54): warning C4244:         [
+D:\C(43,54): warning C4244:             T=float
+D:\C(43,54): warning C4244:         ]
+D:\C(44,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(44,69): warning C4244:         with
+D:\C(44,69): warning C4244:         [
+D:\C(44,69): warning C4244:             T=float
+D:\C(44,69): warning C4244:         ]
+D:\C(44,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(44,54): warning C4244:         with
+D:\C(44,54): warning C4244:         [
+D:\C(44,54): warning C4244:             T=float
+D:\C(44,54): warning C4244:         ]
+D:\C(45,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(45,69): warning C4244:         with
+D:\C(45,69): warning C4244:         [
+D:\C(45,69): warning C4244:             T=float
+D:\C(45,69): warning C4244:         ]
+D:\C(45,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(45,60): warning C4244:         with
+D:\C(45,60): warning C4244:         [
+D:\C(45,60): warning C4244:             T=float
+D:\C(45,60): warning C4244:         ]
+D:\C(46,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(46,75): warning C4244:         with
+D:\C(46,75): warning C4244:         [
+D:\C(46,75): warning C4244:             T=float
+D:\C(46,75): warning C4244:         ]
+D:\C(46,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(46,60): warning C4244:         with
+D:\C(46,60): warning C4244:         [
+D:\C(46,60): warning C4244:             T=float
+D:\C(46,60): warning C4244:         ]
+  Option_State.cpp
+D:\C(37,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(37,83): warning C4244:         with
+D:\C(37,83): warning C4244:         [
+D:\C(37,83): warning C4244:             T=float
+D:\C(37,83): warning C4244:         ]
+D:\C(37,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(37,62): warning C4244:         with
+D:\C(37,62): warning C4244:         [
+D:\C(37,62): warning C4244:             T=float
+D:\C(37,62): warning C4244:         ]
+D:\C(48,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(48,87): warning C4244:         with
+D:\C(48,87): warning C4244:         [
+D:\C(48,87): warning C4244:             T=float
+D:\C(48,87): warning C4244:         ]
+D:\C(48,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C(48,66): warning C4244:         with
+D:\C(48,66): warning C4244:         [
+D:\C(48,66): warning C4244:             T=float
+D:\C(48,66): warning C4244:         ]
+D:\C(72,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(72,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(73,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(73,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(74,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C(74,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PlayState.cpp
+  Source.cpp
+  States_Game_ABS.cpp
+  ThreatMany.cpp
+LINK : warning C4743: 'const GameState::`vftable'' has different size in 'd:\c#\network\project1\project1\mainmenustate.cpp' and 'd:\c#\network\project1\project1\gamestate.cpp': 40 and 24 bytes
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 454 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> D:\C#\Network\Project1\x64\Release\Project1.exe

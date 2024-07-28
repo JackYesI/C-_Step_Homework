@@ -1,0 +1,14 @@
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\bin\Debug\net8.0\TCP_Server.exe
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\bin\Debug\net8.0\TCP_Server.deps.json
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\bin\Debug\net8.0\TCP_Server.runtimeconfig.json
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\bin\Debug\net8.0\TCP_Server.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\bin\Debug\net8.0\TCP_Server.pdb
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\TCP_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\TCP_Server.AssemblyInfoInputs.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\TCP_Server.AssemblyInfo.cs
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\TCP_Server.csproj.CoreCompileInputs.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\TCP_Server.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\refint\TCP_Server.dll
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\TCP_Server.pdb
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\TCP_Server.genruntimeconfig.cache
+D:\C#\Network\NP_Sockets_TCP_UDP\TCP_Server\obj\Debug\net8.0\ref\TCP_Server.dll

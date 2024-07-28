@@ -1,0 +1,10 @@
+File: D:\ExemplesFiles\text1.txt
+Count of target word 'a': 0
+File: D:\ExemplesFiles\text1 – копія.txt
+Count of target word 'a': 0
+File: D:\ExemplesFiles\text1 – копія (2).txt
+Count of target word 'a': 0
+File: D:\ExemplesFiles\text1 – копія (3).txt
+Count of target word 'a': 4
+File: D:\ExemplesFiles\Hello\qwe.txt
+Count of target word 'a': 0
